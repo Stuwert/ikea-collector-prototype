@@ -21,3 +21,14 @@ I've only shopped at IKEA twice, but I've noticed every time I've shopped there,
 ## Solution
 
 I'm proposing a rather simple QR code scanner app that would populate a personal shopping list as you go.  It would inform you of the cost, quantity, and show an image of the items you plan on picking up.  It would also generate a QR code that could be scanned during checkout, and you could verify you had purchased all the items you wanted to.
+
+
+
+## Updates
+
+### Febrary 17
+
+Created a data structure to handle users with multiple sessions.  Also added some prototypes that are linked below.
+
+![Data Structure](data_structure.jpg)
+[Prototypes](prototype.md)
